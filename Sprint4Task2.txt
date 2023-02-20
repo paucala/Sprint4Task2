@@ -1,0 +1,20 @@
+para ahcer la app con h2: https://www.bezkoder.com/spring-boot-jpa-h2-example/
+con MySQL: https://amoelcodigo.com/crud-java-sprig-mysql/
+https://javadesde0.com/crud-rest-con-spring-boot-y-jpa/
+mongoDB: https://www.geeksforgeeks.org/spring-boot-crud-operations-using-mongodb/
+para entender los microservices:
+https://spring.io/blog/2015/07/14/microservices-with-spring
+https://github.com/paulc4/microservices-demo
+RESTful:
+https://medium.com/hashmapinc/rest-good-practices-for-api-design-881439796dc9
+https://www.restapitutorial.com/
+response entity:
+https://www.baeldung.com/spring-response-entity
+https://medium.com/@sebastian.alejandro.hv/java-spring-usando-responseentity-ef327164d514
+per entendre millor i aprofundir (per exemple la capa de serveis):
+https://www.dariawan.com/tutorials/spring/spring-boot-restful-web-services-crud-example/
+https://www.dariawan.com/tutorials/spring/spring-boot-jpa-hibernate-postgresql-restful-crud-api-example/
+https://www.javaguides.net/2022/09/spring-boot-rest-api-crud-example-with-mysql-database.html
+
+documentació adicional:
+https://stackoverflow.com/questions/51221777/failed-to-configure-a-datasource-url-attribute-is-not-specified-and-no-embedd
